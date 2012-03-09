@@ -1,5 +1,0 @@
-# Quick Info
-
-## Core
-
-This repository contains Enyo core. We've pared it down to the essentials, so folks can work at the metal. Widget libraries, g11n code, and other fancy bits are optional packages.
