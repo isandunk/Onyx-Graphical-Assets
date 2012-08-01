@@ -7,3 +7,7 @@ The Photoshop PSD is split into two parts - Light background and Dark background
 Each icon has a layer style applied which can be duplicated across layers or documents.
 
 If you would like to request a particular icon, then please start an issue and I'll see what I can do. 
+
+License
+=============
+This work is licensed under the [CC BY-SA 3.0 License](http://creativecommons.org/licenses/by-sa/3.0/deed.en_GB).
