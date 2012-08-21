@@ -10,4 +10,4 @@ If you would like to request a particular icon, then please start an issue and I
 
 License
 =============
-This work is licensed under the [CC BY-SA 3.0 License](http://creativecommons.org/licenses/by-sa/3.0/deed.en_GB).
+This work is licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
