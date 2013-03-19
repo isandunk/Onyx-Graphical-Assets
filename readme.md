@@ -8,6 +8,10 @@ Each icon has a layer style applied which can be duplicated across layers or doc
 
 If you would like to request a particular icon, then please start an issue and I'll see what I can do. 
 
+## Examples ##
+
+Also included is a folder of example assets, organised by their respective background colours. They are exported as 72dpi 32x64px PNG-24 sprites, so you should be able to go ahead and use these straight away.
+
 License
 =============
 This work is licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
